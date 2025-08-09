@@ -14,5 +14,4 @@ A simple and responsive calculator built using *HTML, **CSS, and **JavaScript*.
 - *JavaScript* – for logic
 
 ## [Live Demo]
-https://TharaniTamilpandithan.github.io/Calculator
-
+<img width="1226" height="911" alt="_D__Project_Calculator_calculator html" src="https://github.com/user-attachments/assets/8add07d1-8e71-4c19-ad7f-a7f420a2dfe2" />
