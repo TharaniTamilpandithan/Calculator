@@ -13,7 +13,8 @@ A simple and responsive calculator built using *HTML, **CSS, and **JavaScript*.
 - *CSS* – for styling
 - *JavaScript* – for logic
 
-## 📷 Screenshot
+## Live Demo
+http://
 
 
 ## 🚀 How to Use
